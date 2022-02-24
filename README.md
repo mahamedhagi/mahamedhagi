@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahamedhagi
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning Python, Numpy and Pandas
+- 👀 I’m interested in data engineering
+- 🌱 I’m currently learning Numpy and Pandas
 - 📫 How to reach me - email: mahamedahagi@gmail.com
 
 <!---
